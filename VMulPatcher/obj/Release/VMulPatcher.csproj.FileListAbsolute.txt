@@ -1,0 +1,9 @@
+C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.exe.config
+C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.csprojResolveAssemblyReference.cache
+C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.DebugForm.resources
+C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.MainForm.resources
+C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.csproj.GenerateResource.Cache
+C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.exe
+C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.pdb
+C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.exe
+C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.pdb
