@@ -89,6 +89,37 @@ namespace VMulPatcher
                     Application.Run(new DebugForm(0));
                     Console.ReadKey();
                     break;
+                case 6666:
+                    Bitmap original;
+                    ushort[] Items = new ushort[] { 0x0D85, 0x0CC7, 0x134F };
+                    string[] Names = new string[] { "parez", "prazdne", "kameny" };
+                    for (int y = 0; y < Items.Length; y++)
+                    {
+                        Console.WriteLine(Names[y] + " creating...");
+                        StreamWriter lSW = new StreamWriter(Names[y] + ".txt");
+                        lSW.Write(Names[y] + " = { ");
+                        for (ushort i = 0; i < Art.GetMaxItemID(); i++)
+                        {
+                            Bitmap next = Art.GetStaticNoCache(i);
+                            original = Art.GetStaticNoCache(Items[y]); //0x0D85, 0x0CC7
+                            try
+                            {
+                                if (BitmapComparer.CompareBitmapsFast(original, next))
+                                {
+                                    Console.WriteLine("Positon 0x" + i.ToString("X4") + " is same. Added");
+                                    //lSW.WriteLine("0x" + i.ToString("X4"));
+                                    lSW.Write("0x" + i.ToString("X4") + ", ");
+                                }
+                            }
+                            finally
+                            {
+                                next = null;
+                            }
+                        }
+                        lSW.Write("}");
+                        lSW.Close();
+                    }
+                    break;
             }
             lTimer = DateTime.Now;
             Save(lChoose);

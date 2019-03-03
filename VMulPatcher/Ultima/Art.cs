@@ -298,6 +298,17 @@ namespace Ultima
                 return LoadStatic(stream, length);
         }
 
+        public static Bitmap GetStaticNoCache(int index)
+        {
+            index += 0x4000;
+            int length, extra;
+            bool patched;
+            Stream stream = m_FileIndex.Seek(index, out length, out extra, out patched);
+            if (stream == null)
+                return null;
+            return LoadStatic(stream, length);
+        }
+
         public static byte[] GetRawStatic(int index)
         {
             index = GetLegalItemID(index);
