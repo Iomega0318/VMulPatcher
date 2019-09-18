@@ -38,7 +38,7 @@ namespace VMulPatcher
                 FPatchFileName = args[0];
             }
 
-            Console.Title = "Venushja Mulpatcher v0.1 aplha";
+            Console.Title = "Venushja Mulpatcher v0.2 aplha";
             if (!FIsPatch)
             {
                 Console.WriteLine("0 for GUI (correctly works only on x64 app)");

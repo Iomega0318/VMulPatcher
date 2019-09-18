@@ -7,3 +7,19 @@ C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\b
 C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.pdb
 C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.exe
 C:\Users\Mutagen\Documents\Visual Studio 2013\Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.pdb
+C:\x\VMulPatcher\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.exe.config
+C:\x\VMulPatcher\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.exe
+C:\x\VMulPatcher\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.pdb
+C:\x\VMulPatcher\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.DebugForm.resources
+C:\x\VMulPatcher\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.MainForm.resources
+C:\x\VMulPatcher\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.csproj.GenerateResource.Cache
+C:\x\VMulPatcher\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.exe
+C:\x\VMulPatcher\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.pdb
+D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.exe.config
+D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.exe
+D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.pdb
+D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.exe
+D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\bin\Release\VMulPatcher.pdb
+D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.DebugForm.resources
+D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.MainForm.resources
+D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\obj\Release\VMulPatcher.csproj.GenerateResource.Cache

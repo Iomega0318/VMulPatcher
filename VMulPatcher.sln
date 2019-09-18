@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMulPatcher", "VMulPatcher\VMulPatcher.csproj", "{E82DCC24-B680-4A1D-895E-D4F01E782362}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMulPatchCreator", "VMulPatchCreator\VMulPatchCreator.csproj", "{79C13308-EE0F-4B9E-AB03-F9AED3532052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E82DCC24-B680-4A1D-895E-D4F01E782362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E82DCC24-B680-4A1D-895E-D4F01E782362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E82DCC24-B680-4A1D-895E-D4F01E782362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C13308-EE0F-4B9E-AB03-F9AED3532052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C13308-EE0F-4B9E-AB03-F9AED3532052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C13308-EE0F-4B9E-AB03-F9AED3532052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C13308-EE0F-4B9E-AB03-F9AED3532052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
