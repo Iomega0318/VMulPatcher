@@ -346,7 +346,7 @@ namespace VMulPatcher
                         if (aToUOP)
                         {
                             Console.Write("UOP file of Gumps packing...");
-                            Utility.PackUOP(FileType.ArtLegacyMUL);
+                            Utility.PackUOP(FileType.GumpartLegacyMUL);
                             Console.WriteLine("UOP file of Gumps created!");
                         }
                         break;
