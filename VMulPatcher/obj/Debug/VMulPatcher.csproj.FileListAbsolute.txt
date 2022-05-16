@@ -24,3 +24,13 @@ D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\obj\Debug\VMulPatcher.MainF
 D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\obj\Debug\VMulPatcher.csproj.GenerateResource.Cache
 D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\obj\Debug\VMulPatcher.exe
 D:\1. Visual Studio Projects\VMulPatcher\VMulPatcher\obj\Debug\VMulPatcher.pdb
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\bin\Debug\VMulPatcher.exe.config
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\bin\Debug\VMulPatcher.exe
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\bin\Debug\VMulPatcher.pdb
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\obj\Debug\VMulPatcher.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\obj\Debug\VMulPatcher.DebugForm.resources
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\obj\Debug\VMulPatcher.MainForm.resources
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\obj\Debug\VMulPatcher.csproj.GenerateResource.cache
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\obj\Debug\VMulPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\obj\Debug\VMulPatcher.exe
+C:\Users\Jonathan\Downloads\VMulPatcherv0.2alpha-master\Source\VMulPatcher\obj\Debug\VMulPatcher.pdb
